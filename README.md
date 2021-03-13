@@ -1,3 +1,3 @@
 C# TicTacToe
 
-This repo has the TicTacToe game that I built using C#.
+A simple TicTacToe game to practice the object-oriented programming skills. Built using C#.
